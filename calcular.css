@@ -1,0 +1,21 @@
+h1{
+  font-size: large;
+  background-color: rgb(124, 112, 112);
+  margin: auto;
+  height: auto;
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: aqua;
+  font-size: large;
+}
+button{
+  padding: 10px 20px;
+}
+body{
+  text-align: center;
+}
+main{
+  text-align: center;
+}
